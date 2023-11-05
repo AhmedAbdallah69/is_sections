@@ -1,6 +1,6 @@
 
 
-Information Science Section (JAVA)
+Information Science sections assignments  (JAVA)
 
 Author: Ahmed Mohamed Abdallah
  
